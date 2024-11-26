@@ -4,7 +4,7 @@ The website used to scrape data: https://www.yelp.com/brands/uber
 
 For more information, refer to this link: https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment
 
-Features:
+#Features:
     -Data Collection:
         -Reviews are scraped from Yelp using BeautifulSoup and cleaned to ensure quality.
     -Sentiment Analysis:
