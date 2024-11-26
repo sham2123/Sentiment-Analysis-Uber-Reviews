@@ -1,1 +1,1 @@
-A Sentiment Analysis model using the BERT framework.
+A Sentiment Analysis model for Uber reviews on Yelp using the BERT framework.
